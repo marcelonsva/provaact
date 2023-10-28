@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "yz418UHOw8pACeY4wI8jPgb9Ih6uXH4g5/y3XKhDRSn37OncnmXOSaGUJC6pmurcLVwb8C5a+KDzpIFsbmdDNg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Player HDN\\Desktop\\prova\\ConsultaCep\\Dominio\\Dominio.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Player HDN\\.nuget\\packages\\fluentvalidation\\11.8.0\\fluentvalidation.11.8.0.nupkg.sha512"
+  ],
+  "logs": []
+}

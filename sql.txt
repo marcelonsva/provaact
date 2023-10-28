@@ -1,0 +1,11 @@
+create database provaact
+use provaact
+CREATE TABLE Cliente (
+    ClienteID INT IDENTITY(1,1) PRIMARY KEY,
+    Nome NVARCHAR(255) NOT NULL,
+    Email NVARCHAR(255) NOT NULL,
+    DataNascimento DATE NOT NULL,
+    CEP NVARCHAR(8) NOT NULL
+);
+select * from Cliente
+ 

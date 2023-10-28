@@ -1,0 +1,15 @@
+C:\Users\Player HDN\Desktop\prova\ConsultaCep\InfraEstrutura\bin\Debug\net6.0\InfraEstrutura.deps.json
+C:\Users\Player HDN\Desktop\prova\ConsultaCep\InfraEstrutura\bin\Debug\net6.0\InfraEstrutura.dll
+C:\Users\Player HDN\Desktop\prova\ConsultaCep\InfraEstrutura\bin\Debug\net6.0\InfraEstrutura.pdb
+C:\Users\Player HDN\Desktop\prova\ConsultaCep\InfraEstrutura\bin\Debug\net6.0\Dominio.dll
+C:\Users\Player HDN\Desktop\prova\ConsultaCep\InfraEstrutura\bin\Debug\net6.0\Dominio.pdb
+C:\Users\Player HDN\Desktop\prova\ConsultaCep\InfraEstrutura\obj\Debug\net6.0\InfraEstrutura.csproj.AssemblyReference.cache
+C:\Users\Player HDN\Desktop\prova\ConsultaCep\InfraEstrutura\obj\Debug\net6.0\InfraEstrutura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Player HDN\Desktop\prova\ConsultaCep\InfraEstrutura\obj\Debug\net6.0\InfraEstrutura.AssemblyInfoInputs.cache
+C:\Users\Player HDN\Desktop\prova\ConsultaCep\InfraEstrutura\obj\Debug\net6.0\InfraEstrutura.AssemblyInfo.cs
+C:\Users\Player HDN\Desktop\prova\ConsultaCep\InfraEstrutura\obj\Debug\net6.0\InfraEstrutura.csproj.CoreCompileInputs.cache
+C:\Users\Player HDN\Desktop\prova\ConsultaCep\InfraEstrutura\obj\Debug\net6.0\InfraEstrutura.csproj.CopyComplete
+C:\Users\Player HDN\Desktop\prova\ConsultaCep\InfraEstrutura\obj\Debug\net6.0\InfraEstrutura.dll
+C:\Users\Player HDN\Desktop\prova\ConsultaCep\InfraEstrutura\obj\Debug\net6.0\refint\InfraEstrutura.dll
+C:\Users\Player HDN\Desktop\prova\ConsultaCep\InfraEstrutura\obj\Debug\net6.0\InfraEstrutura.pdb
+C:\Users\Player HDN\Desktop\prova\ConsultaCep\InfraEstrutura\obj\Debug\net6.0\ref\InfraEstrutura.dll
